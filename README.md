@@ -59,14 +59,21 @@ I care about clean code, smooth UX, and apps that actually ship.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=smitp7502&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitp7502&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=smitp7502&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitp7502&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=smitp7502&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=smitp7502&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=smitp7502&color=0D47A1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
